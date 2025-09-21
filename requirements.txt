@@ -1,0 +1,7 @@
+streamlit
+requests
+gspread
+pandas
+hashlib
+oauth2client
+streamlit_lottie
